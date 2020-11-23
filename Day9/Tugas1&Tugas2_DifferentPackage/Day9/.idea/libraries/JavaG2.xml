@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JavaG2">
+    <CLASSES>
+      <root url="jar://D:/_LIB/json-simple-1.1.1.jar!/" />
+      <root url="jar://D:/_LIB/commons-net-3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

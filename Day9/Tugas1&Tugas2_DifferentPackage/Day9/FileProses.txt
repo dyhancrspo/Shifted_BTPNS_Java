@@ -1,0 +1,15 @@
+
+Nama   : John
+Nilai Fisika  : 10
+Nilai kimia   : 8
+Nilai biologi : 9
+
+Nama   : Peter
+Nilai Fisika  : 7
+Nilai kimia   : 6
+Nilai biologi : 10
+
+Nama   : Lisa
+Nilai Fisika  : 8
+Nilai kimia   : 7
+Nilai biologi : 7

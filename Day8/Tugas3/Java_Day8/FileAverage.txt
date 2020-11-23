@@ -1,0 +1,4 @@
+Nama,NilaiRata-Rata
+nullJohn,9.0
+Peter,7.666666666666667
+Lisa,7.333333333333333

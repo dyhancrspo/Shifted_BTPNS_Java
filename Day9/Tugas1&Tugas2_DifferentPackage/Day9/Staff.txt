@@ -1,0 +1,1 @@
+{"staff":[{"nama":"Malih","tunjangan makan":5000000,"jabatan":"Staff","gaji":2500000,"id":2,"email":"malih@mail.com"},{"nama":"Jepri","tunjangan makan":5000000,"jabatan":"Staff","gaji":3100000,"id":4,"email":"jepri@mail.com"}]}

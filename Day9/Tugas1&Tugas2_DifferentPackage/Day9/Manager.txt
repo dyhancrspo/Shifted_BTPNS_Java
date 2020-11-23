@@ -1,0 +1,1 @@
+{"manager":[{"tunjangan transport":3000000,"nama":"Sanusi","no telp":"081119994444","jabatan":"Manager","gaji":10000000,"id":2,"tunjangan entertainment":1500000},{"tunjangan transport":3000000,"nama":"Budi","no telp":"0812333454599","jabatan":"Manager","gaji":11500000,"id":5,"tunjangan entertainment":1500000}]}
