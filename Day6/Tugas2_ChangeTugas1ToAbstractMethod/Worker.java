@@ -3,6 +3,7 @@ public abstract class Worker implements Comparable{
     String nama;
     int absensi;
     String jabatan;
+    // int tunjanganPulsa;
     
     public abstract void setId(int id);
 
@@ -15,6 +16,10 @@ public abstract class Worker implements Comparable{
     public abstract void setJabatan(String jabatan);
 
     public abstract String getJabatan();
+
+    // public abstract void setTunjanganPulsa(String tunjanganPulsa);
+
+    // public abstract String getTunjanganPulsa();
   
     public abstract void setAbsensi(int absensi);
 
